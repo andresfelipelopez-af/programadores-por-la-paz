@@ -1,0 +1,9 @@
+Llevar un registro de cambios mediante herramientas como Git es crucial en el desarrollo moderno,
+ya que proporciona trazabilidad absoluta sobre la evolución del código fuente de un sistema.
+Esta bitácora histórica permite identificar con exactitud qué cambios se introdujeron, cuándo se
+hicieron y quién fue el miembro del equipo responsable de cada una de las líneas modificadas.
+En el aspecto práctico, si una nueva actualización genera un fallo crítico en la plataforma, Git
+facilita revertir el proyecto a un estado anterior completamente estable de forma inmediata.
+Asimismo, esta organización técnica fomenta un entorno colaborativo transparente y seguro, donde
+múltiples desarrolladores pueden trabajar simultáneamente en ramas paralelas sin destruir el trabajo
+ajeno, garantizando así la calidad y la continuidad de los proyectos tecnológicos de la comunidad.
