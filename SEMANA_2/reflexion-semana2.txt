@@ -1,0 +1,9 @@
+Dominar el uso de la terminal es fundamental para cualquier desarrollador, ya que representa
+una interfaz directa, rápida y eficiente con el sistema operativo de la máquina. A diferencia de
+la interfaz gráfica, la terminal permite automatizar tareas complejas, ejecutar scripts y manejar
+grandes volúmenes de archivos mediante una sintaxis precisa y sin consumir recursos innecesarios.
+En el flujo de trabajo diario, organizar los archivos de un proyecto desde la consola ahorra tiempo
+y minimiza errores manuales al estructurar los directorios esenciales del código. Además, es un paso
+técnico obligatorio para integrar herramientas profesionales avanzadas como contenedores, servidores
+y sistemas de control de versiones. Comprender estos comandos básicos le otorga al programador una
+base sólida para gestionar entornos de producción reales y colaborar en equipos de desarrollo.
