@@ -1,0 +1,12 @@
+Descripción de la consulta (Ruta GET /reportes):
+
+Al realizar una petición HTTP GET a la dirección http://localhost:3000/reportes después 
+de haber enviado datos mediante POST, el servidor responde devolviendo la lista completa 
+almacenada en el array 'reportes' en formato JSON. A diferencia del inicio, donde el array se 
+encuentra vacío ([]), ahora muestra una colección estructurada de objetos que incluye el 
+identificador autoincremental generado en el backend ("id": 1), el "tipo" y la "descripcion" 
+de cada incidencia reportada por los usuarios. 
+
+Es importante destacar que como los datos se guardan temporalmente en la memoria RAM del servidor, 
+si el proceso de Node.js se detiene o se reinicia, el array vuelve a su estado inicial vacío de 
+forma inmediata.
