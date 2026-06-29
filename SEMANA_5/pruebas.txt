@@ -1,0 +1,13 @@
+Bitácora de pruebas en el navegador:
+
+- Al ingresar a http://localhost:3000:
+El navegador realiza una petición GET a la raíz y muestra el texto plano "Servidor activo", 
+confirmando que la aplicación base responde correctamente.
+
+- Al ingresar a http://localhost:3000/saludo:
+El servidor procesa el endpoint específico y despliega en pantalla el mensaje "Hola comunidad", 
+demostrando el enrutamiento básico estático.
+
+- Al ingresar a http://localhost:3000/mensaje/Felipe:
+El servidor captura el parámetro dinámico ":nombre" de la URL (en este caso, "Felipe") 
+mediante req.params y retorna una respuesta personalizada diciendo "Hola Felipe".

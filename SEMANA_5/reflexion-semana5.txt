@@ -1,0 +1,10 @@
+Las Interfaces de Programación de Aplicaciones (APIs) constituyen una solución tecnológica esencial
+para que las comunidades organicen y estandaricen el flujo de sus datos colectivos en internet.
+Al definir reglas claras y endpoints específicos para consultar o enviar información, se evita la
+saturación y el desorden característicos de las cadenas de mensajería o redes sociales tradicionales.
+Una API bien estructurada permite recolectar reportes, denuncias o alertas de forma automatizada,
+clasificando las peticiones en tiempo real para agilizar la toma de decisiones comunitarias.
+Además, su arquitectura interconecta herramientas heterogéneas, haciendo viable que aplicaciones
+móviles y plataformas de escritorio compartan la misma base informativa con transparencia.
+Esto empodera la autogestión barrial, dotando a las iniciativas de un sistema robusto, escalable y
+confiable que transforma los datos individuales en acciones coordinadas para el bienestar común.
