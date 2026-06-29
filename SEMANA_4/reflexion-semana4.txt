@@ -1,0 +1,9 @@
+El uso de tecnologías abiertas como Node.js permite a las comunidades construir herramientas
+tecnológicas personalizadas que responden directamente a sus realidades y problemáticas locales.
+Al no depender de software propietario o corporativo, los colectivos aseguran el control total
+sobre sus propios datos, garantizando la privacidad y la seguridad de la información común.
+Esta soberanía tecnológica fomenta procesos de participación ciudadana mucho más transparentes,
+donde el código fuente puede ser auditado, mejorado y adaptado libremente por el entorno.
+Además, democratiza el acceso al desarrollo técnico al reducir drásticamente los costos de
+licenciamiento, empoderando a las organizaciones sociales para generar soluciones digitales
+sostenibles que fortalecen la colaboración, la autogestión y el bienestar comunitario.
