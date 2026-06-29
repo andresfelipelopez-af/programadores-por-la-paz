@@ -1,0 +1,9 @@
+La seguridad digital es un pilar indispensable para salvaguardar las plataformas tecnológicas
+comunitarias, ya que estas herramientas gestionan la confianza y la privacidad de los procesos
+participativos locales. Un ataque cibernético o una filtración de datos no solo expone información
+sensible de los ciudadanos, sino que puede destruir la credibilidad de los proyectos colectivos y
+frenar la organización social. Al utilizar software de código abierto como Linux, los equipos de
+desarrollo obtienen transparencia, pero asumen la responsabilidad directa de mitigar riesgos.
+Implementar controles estrictos de acceso, proteger los entornos con buenas prácticas y cifrar los
+canales de comunicación garantiza que los espacios de deliberación digital sigan siendo democráticos,
+libres de sabotajes externos y totalmente confiables para el empoderamiento de la comunidad.

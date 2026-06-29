@@ -1,0 +1,9 @@
+1. No exponer datos personales de los miembros de la comunidad en secciones públicas de la 
+plataforma.
+2. Proteger las credenciales utilizando variables de entorno (.env) para no subir claves a 
+repositorios públicos.
+3. Usar conexiones seguras mediante certificados SSL/HTTPS para cifrar toda la información 
+que viaja por la web.
+4. Registrar los accesos y eventos del sistema en archivos de log para auditar ingresos inusuales.
+5. Limitar el acceso a información sensible implementando roles de usuario estrictos 
+(administrador, editor, vecino).
