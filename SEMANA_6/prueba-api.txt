@@ -1,0 +1,17 @@
+Descripción de la respuesta devuelta por el servidor (Ruta POST /registro):
+
+Al enviar una petición HTTP POST a la dirección http://localhost:3000/registro con un cuerpo 
+en formato JSON conteniendo las propiedades "nombre" y "mensaje", el middleware express.json() 
+intercepta los datos y los expone en req.body. 
+
+Posteriormente, el servidor procesa el bloque de instrucciones y devuelve una respuesta 
+estructurada en formato JSON con un código de estado exitoso, mostrando el siguiente contenido:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esta respuesta confirma que los datos del cliente fueron leídos, interpretados y mapeados 
+correctamente en el backend de la aplicación.

@@ -1,0 +1,9 @@
+La recepción estructurada de datos a través de formatos como JSON es crucial para que las plataformas
+tecnológicas comunitarias gestionen la información de manera escalable, veloz y sin errores de lectura.
+Cuando los ciudadanos envían un reporte en un esquema predefinido de llave y valor, el software puede
+clasificar, almacenar y priorizar los incidentes automáticamente sin requerir intervención manual.
+Esto marca una diferencia radical con respecto a las denuncias informales recibidas por mensajería,
+donde la falta de orden y la ambigüedad dificultan el análisis técnico y el seguimiento de casos.
+Además, contar con información organizada facilita la creación de estadísticas públicas e indicadores,
+optimizando el uso de los recursos del barrio y acelerando la resolución de las problemáticas locales.
+Por ende, la estructura técnica de los datos es la base de una participación ciudadana ágil y eficiente.
