@@ -1,0 +1,9 @@
+La ciudadanía digital implica asumir un rol activo y ético en el ecosistema virtual, donde
+el uso responsable de la información es el pilar para mitigar la posverdad y los datos falsos.
+Cuando verificamos los contenidos antes de compartirlos, fortalecemos la participación
+ciudadana y protegemos la integridad del debate público. Esta misma rigurosidad se traslada
+al ámbito técnico mediante herramientas de control de versiones como Git. En el desarrollo,
+la organización técnica no es solo un orden individual, sino un compromiso colectivo con la
+transparencia del código y la seguridad de las plataformas. Un desarrollador consciente usa
+Git para asegurar que los sistemas técnicos sean confiables y auditables para su comunidad,
+conectando así la ética ciudadana con la disciplina y la responsabilidad técnica en internet.
