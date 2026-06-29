@@ -1,0 +1,19 @@
+Bitácora de ejecución del servidor:
+
+- ¿Qué ocurre cuando ejecutas node server.js?
+El entorno de ejecución de Node.js interpreta el script server.js, inicializa el framework 
+Express en la memoria RAM y levanta el proceso del servidor backend, manteniéndolo en un bucle 
+activo y permanente de escucha de peticiones.
+
+- ¿Qué mensaje aparece en la terminal?
+En la consola de comandos se despliega el mensaje de confirmación programado en el callback: 
+"Servidor ejecutándose en puerto 3000".
+
+- ¿Qué sucede cuando visitas la ruta /estado?
+El navegador realiza una solicitud HTTP GET al endpoint secundario. El servidor procesa 
+el requerimiento y retorna un objeto de respuesta formateado como una estructura JSON que 
+muestra en pantalla:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

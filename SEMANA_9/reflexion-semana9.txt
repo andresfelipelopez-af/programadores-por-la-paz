@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor son pilares fundamentales para garantizar que las
+plataformas participativas comunitarias operen de manera continua y mantengan la confianza social.
+Si una aplicación barrial se cae constantemente o es vulnerable a filtraciones de datos, la
+población dejará de reportar incidencias o de consultar las alertas, neutralizando el proceso.
+Garantizar la disponibilidad del servicio mediante el monitoreo de logs y una correcta gestión
+de puertos impide que problemas técnicos aíslen digitalmente a los líderes y ciudadanos.
+Un servidor robusto resguarda los canales informativos frente a ataques cibernéticos y caídas
+inesperadas de tráfico durante situaciones de emergencia vecinal o comunitaria. Por lo tanto,
+la infraestructura técnica estable es el soporte real de una participación democrática confiable.
